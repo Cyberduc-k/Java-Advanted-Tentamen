@@ -1,0 +1,5 @@
+name,manufacturerId,type,length,cost
+CR90,1000001,Corvette,150,2700000
+Executor,1000002,Dreadnought,19000,325000000
+TIE,1000003,Fighter,6.3,60000
+Lambda,1000003,Shuttle,20,140000
